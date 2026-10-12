@@ -8,10 +8,12 @@ Removal_efficiency (%) = ((initial_concentration - final_concentration) / initia
 - Jupyter notebook
 - VS Code
 - GitHub
+
 '' python 
 intial_concentration=100
 final_concentration=25
 sum= (intial_concentration + final_concentration)
 print (f"Sum:{sum:.2f}")
+
 ## Author
 Chemical Engineering Graduate | Aspiring Data Analyst vs AI/ML Engineer
